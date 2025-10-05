@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/Qs75BqLW44RrP0x6qL/200.gif" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtaufic&label=Profile%20views&color=0e75b6&style=flat" alt="gtaufic" /> </p>
 
 Main technologies:
